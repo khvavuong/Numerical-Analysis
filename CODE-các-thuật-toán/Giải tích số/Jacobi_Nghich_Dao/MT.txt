@@ -1,0 +1,16 @@
+// khong cheo troi
+3
+3 2 5
+2 6 9
+1 4 6
+// cheo troi hang
+3
+9 3 3
+1 6 2
+2 4 10
+
+// cheo troi cot
+3
+8 0 3
+-3.1 6 3.1
+3 -4 9

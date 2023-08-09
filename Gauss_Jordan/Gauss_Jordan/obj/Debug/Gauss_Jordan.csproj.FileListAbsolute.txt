@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\GTS\Gauss_Jordan\Gauss_Jordan\bin\Debug\Gauss_Jordan.exe.config
+C:\Users\ADMIN\Desktop\GTS\Gauss_Jordan\Gauss_Jordan\bin\Debug\Gauss_Jordan.exe
+C:\Users\ADMIN\Desktop\GTS\Gauss_Jordan\Gauss_Jordan\bin\Debug\Gauss_Jordan.pdb
+C:\Users\ADMIN\Desktop\GTS\Gauss_Jordan\Gauss_Jordan\obj\Debug\Gauss_Jordan.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\GTS\Gauss_Jordan\Gauss_Jordan\obj\Debug\Gauss_Jordan.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\GTS\Gauss_Jordan\Gauss_Jordan\obj\Debug\Gauss_Jordan.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\GTS\Gauss_Jordan\Gauss_Jordan\obj\Debug\Gauss_Jordan.exe
+C:\Users\ADMIN\Desktop\GTS\Gauss_Jordan\Gauss_Jordan\obj\Debug\Gauss_Jordan.pdb

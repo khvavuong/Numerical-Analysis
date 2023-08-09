@@ -1,0 +1,12 @@
+function S = VienQuanh(A, a)
+    %A la ma tran can tim nghich dao
+    %a la nghich dao cua ma tran (n-1 x n-1)
+    n =size(A,1);
+    A1 = A(1:n-1,1:n-1);
+    U = A(n,1:n-1);
+    V = A(1:n-1,n);
+    ann = A(n,n);
+    beta12 = (U*a*V - ann);
+    beta11 = (eye)
+    
+end
